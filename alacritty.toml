@@ -1,0 +1,34 @@
+working_directory = 'C:\dev'
+
+[colors.primary]
+background = "#1F1D2E"
+foreground = "#EBBCBA"
+
+[env]
+startup_mode = "Maximized"
+
+[font]
+size = 18.0
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Medium"
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Medium Italic"
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Medium"
+
+[font.offset]
+x = 0
+y = 0
+
+[shell]
+program = "pwsh"
