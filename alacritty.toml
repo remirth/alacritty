@@ -8,7 +8,7 @@ foreground = "#EBBCBA"
 startup_mode = "Maximized"
 
 [font]
-size = 18.0
+size = 14.0
 
 [font.bold]
 family = "JetBrainsMono Nerd Font"
@@ -31,4 +31,4 @@ x = 0
 y = 0
 
 [shell]
-program = "pwsh"
+program = "bash"
