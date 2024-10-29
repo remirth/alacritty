@@ -1,8 +1,5 @@
+import = ["~/.config/alacritty-theme/themes/terminal_app.toml"]
 working_directory = 'C:\dev'
-
-[colors.primary]
-background = "#1F1D2E"
-foreground = "#EBBCBA"
 
 [env]
 startup_mode = "Maximized"
