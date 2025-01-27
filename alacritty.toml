@@ -1,5 +1,5 @@
-import = ["~/.config/alacritty-theme/themes/terminal_app.toml"]
-working_directory = 'C:\dev'
+general.import = ["~/.config/alacritty-theme/themes/gruvbox-dark.toml"]
+general.working_directory = 'C:\dev'
 
 [env]
 startup_mode = "Maximized"
@@ -27,5 +27,5 @@ style = "Medium"
 x = 0
 y = 0
 
-[shell]
+[terminal.shell]
 program = "bash"
