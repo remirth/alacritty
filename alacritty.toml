@@ -1,11 +1,11 @@
-general.import = ["~/.config/alacritty-theme/themes/gruvbox-dark.toml"]
+general.import = ["~/.config/alacritty-theme/themes/ubuntu.toml"]
 general.working_directory = 'C:\dev'
 
 [env]
 startup_mode = "Maximized"
 
 [font]
-size = 14.0
+size = 20.0
 
 [font.bold]
 family = "JetBrainsMono Nerd Font"
