@@ -1,4 +1,4 @@
-general.import = ["~/.config/alacritty-theme/themes/ubuntu.toml"]
+general.import = ["~/.config/alacritty-theme/themes/rose_pine.toml"]
 general.working_directory = 'C:\dev'
 
 [env]
